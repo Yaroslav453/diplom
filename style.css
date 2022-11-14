@@ -19,6 +19,9 @@ font-size: 30px;
 transition:3s ;
 }
 
-p .home:focus{
- color: gold;	 
+p .home:foccolor: brown;
+cursor: pointer;
+font-size: 30px;
+transition:3s ; 
+color : gold;
 }
