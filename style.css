@@ -1,6 +1,7 @@
 body {
 position: relative;
-background: url("https://st.depositphotos.com/1522993/4737/v/600/depositphotos_47372005-stock-illustration-orange-blue-background-with-triagles.jpg");
+background: url("https://st.depositphotos.com/1522993/4737/v/600/depositphotos_47372005-stock-illustration-orange-blue-background-with-triagles.jpg")no-repeat ;
+background-size:100% 100%;
 }
 
 .img {
