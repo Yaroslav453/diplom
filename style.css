@@ -19,7 +19,7 @@ font-size: 30px;
 transition:3s ;
 }
 
-p .home:foccolor: brown;
+p .home:hover{
 cursor: pointer;
 font-size: 30px;
 transition:3s ; 
